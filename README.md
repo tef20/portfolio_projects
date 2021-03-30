@@ -84,22 +84,22 @@ Having completed a Diploma in Linguistics at the University of Manchester, where
   * [Course page](https://www.udemy.com/course/automate/ )  
 * **How to Code: Simple Data (UBC)**
   * An introduction to (functional) programming, using a Racket based student language; emphasis on good design and testing (partially completed).    
-  * [course page](https://www.edx.org/course/how-to-code-simple-data)  
+  * [Course page](https://www.edx.org/course/how-to-code-simple-data)  
 * **Introduction to Artificial Intelligence with Python (Harvard CS50ai)**
   * a more technical course, introducing various search, optimization, and learning algorithms; ways of encoding knowledge and probabilistic reasoning in a program; data management and some useful tools and libraries    
-  * [course page](https://cs50.harvard.edu/ai/2020/)  
-  * [my repo]()  
+  * [Course page](https://cs50.harvard.edu/ai/2020/)  
+  * [My repo]()  
 
 ### Mini-courses and Tutorials
 Below are some of the short courses I found particularly helpful.
 * **Learn Git Branching**
   * Visual tutorial for learning Git branching.    
-  * [course page](https://learngitbranching.js.org/)  
+  * [Course page](https://learngitbranching.js.org/)  
 * **vimtutor**
   * Shell based vim tutorial.    
 * **Regexone**
   * Interactive tutorial for common regular expressions.    
-  * [course page](https://regexone.com/)  
+  * [Course page](https://regexone.com/)  
 
 --------------------------
 
