@@ -53,7 +53,8 @@ Below are some of the short courses I found particularly helpful.
   * Visual tutorial for learning Git branching    
   * [Course page](https://learngitbranching.js.org/)  
 * **vimtutor**
-  * Shell based vim tutorial    
+  * Shell based vim tutorial  
+  * [Course page](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)  
 * **Regexone**
   * Interactive tutorial for common regular expressions    
   * [Course page](https://regexone.com/)  
