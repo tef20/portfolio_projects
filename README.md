@@ -103,7 +103,7 @@ Below are some of the short courses I found particularly helpful.
 
 --------------------------
 
-# Bookshelf
+## Bookshelf
 
 Some of the awesome pop science books that inspired me to to learn more about computers:
 * **The Code Book by Simon Singh** -- an engaging history of ideas in cryptography; tells some great stories of the back and forth between code makers and breakers, introducing techniques such as Cesar shift, Vigenère ciphers, Diffie–Hellman key exchange, RSA, PGP, and even some speculations on quantum cryptography.
