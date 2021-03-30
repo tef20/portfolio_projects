@@ -43,7 +43,7 @@ Overall I am fairly pleased with this project.
 * Many aspects of the project adhere to good design principles such as DRY (code and information)
 * I expect it to be expandable in future
 
-###### Ideas for further features:
+##### Ideas for further features:
 * More educational features to help player improve probabilistic intuition 
   * Run n automated rounds, to show decision outcomes
   * Alternative scenario with n doors, to show impact Monty's decision
