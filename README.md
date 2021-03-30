@@ -2,8 +2,8 @@
 
 My name is Chris and I've been learning to code (self-guided, part-time) for just over a year.
 Here you'll find:
-* **Projects** -- my small _but growing_ colection of personal projects, designed to showcase my progression as a programmer!  
-* **Courses** -- details and links to some of the great courses I've taken, aswell as further repositories containing that work.  
+* **Projects** -- my small _but growing_ collection of personal projects, designed to showcase my progression as a programmer!  
+* **Courses** -- details and links to some of the great courses I've taken, as well as further repositories containing that work.  
 * **Bookshelf** -- some topical books I've read and enjoyed :)  
 
 Thank you for taking the time to look around!
@@ -47,7 +47,7 @@ Ideas for further features:
 * more educational features to help player improve probabilistic intuition 
   * run n automated rounds, to show decision outcomes
   * alternative scenario with n doors, to show impact Monty's decision
-  * decision tree vizualisation 
+  * decision tree visualisation 
 * better / more dynamic animations
 * more engaging text to improve game play / player understanding
 
@@ -58,7 +58,7 @@ Areas for improvement:
   * inexperience managing data dependencies, which forced some redesigning
 * some attempts at DRY code failed and make the code less flexible
 * widget geometry is quite static and so could cause future problems
-* I have not attempted to make it resiliant across operating systems 
+* I have not attempted to make it resilient across operating systems 
   * pathlib would help with management of files
 
 --------------------------
@@ -67,7 +67,7 @@ Areas for improvement:
 
 Having completed a Diploma in Linguistics at the University of Manchester, where I enjoyed modules on syntax, logic, and statistics, I have been using my spare time to pursue the following online courses:
 
-* **Introduction to CS (Harvard CS50x)**
+* **Introduction to CS (Harvard, CS50x)**
   * Very popular, well polished intro to CS fundamentals - I focused on first 4 weeks, to gain some familiarity with C language  
   * [Course page](https://cs50.harvard.edu/x/2019/)  
 * **Introduction to Linux (Linux Foundation, LFS101x)** 
@@ -85,7 +85,7 @@ Having completed a Diploma in Linguistics at the University of Manchester, where
 * **How to Code: Simple Data (UBC)**
   * An introduction to (functional) programming, using a Racket based student language; emphasis on good design and testing (partially completed).    
   * [Course page](https://www.edx.org/course/how-to-code-simple-data)  
-* **Introduction to Artificial Intelligence with Python (Harvard CS50ai)**
+* **Introduction to Artificial Intelligence with Python (Harvard, CS50ai)**
   * a more technical course, introducing various search, optimization, and learning algorithms; ways of encoding knowledge and probabilistic reasoning in a program; data management and some useful tools and libraries    
   * [Course page](https://cs50.harvard.edu/ai/2020/)  
   * [My repo]()  
