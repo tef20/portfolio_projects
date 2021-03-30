@@ -35,14 +35,15 @@ The goal of this project was to build an interactive game inspired by [The Monty
 * a doors class, representing a graphical door object
 
 **Assessment / Reflections**  
-Overall I am fairly pleased with this project. 
+Positives:  
+Overall I am fairly pleased with this project.  
 * I learned alot
 * it accurately encodes the underlying dynamics of the game
 * it can be played either as a CLI or GUI game (although not interchangeably)
 * many aspects of the project adhere to good design principles such as DRY (code and information)
 * I expect it to be expandable in future
 
-**Ideas for further features**
+Ideas for further features:
 * more educational features to help player improve probabilistic intuition 
   * run n automated rounds, to show decision outcomes
   * alternative scenario with n doors, to show impact Monty's decision
@@ -50,7 +51,7 @@ Overall I am fairly pleased with this project.
 * better / more dynamic animations
 * more engaging text to improve game play / player understanding
 
-**Areas for improvement**
+Areas for improvement:
 * I would like to have incorporated more systematic testing, eg. doctests
 * the project ran over time by 2x, this reflected:
   * my unfamiliarity with the tkinter library and some of its behaviours
