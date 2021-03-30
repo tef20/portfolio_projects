@@ -61,6 +61,9 @@ Below are some of the short courses I found particularly helpful.
 * **Learn SQL**  
   * Interactive tutorial covering basic SQL manipulations
   * [Course page](https://www.sololearn.com/learning/1060)
+* **Beginning Your Coding Journey (Lambda School)**
+  * Follow along mini-tutorials introducing HTML, CSS, JavaScript
+  * [Course page](https://lambdaschool.com/free-mini-code-bootcamp)
 
 --------------------------
 
