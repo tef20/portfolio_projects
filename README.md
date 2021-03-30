@@ -57,6 +57,9 @@ Below are some of the short courses I found particularly helpful.
 * **Regexone**
   * Interactive tutorial for common regular expressions    
   * [Course page](https://regexone.com/)  
+* **Learn SQL**  
+  * Interactive tutorial covering basic SQL manipulations
+  * [Course page](https://www.sololearn.com/learning/1060)
 
 --------------------------
 
