@@ -13,9 +13,10 @@ Thank you for taking the time to look around!
 ## Projects
 
 ### Monty Hall  
-[repository](<repo address>)  
 
 The goal of this project was to build an interactive game inspired by [The Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) -- a probability puzzle based on the classic, counterintuitive television game-show, Let's Make a Deal, whose host was Monty Hall.  
+
+[repository](<repo address>)  
 
 **Motivation**  
 * make first 'from scratch' GUI application (having encountered tkinter library during Code in Place course)
