@@ -3,7 +3,7 @@
 My name is Chris and I've been learning to code (self-guided, part-time) for just over a year.
 Here you'll find:
 * **Projects** -- my small _but growing_ collection of personal projects, designed to showcase my progression as a programmer!  
-* **Courses** -- details and links to some of the great courses I've taken, as well as further repositories containing that work.  
+* **Courses** -- details and links to some of the great courses I've taken, as well as further repositories containing that work  
 * **Bookshelf** -- some topical books I've read and enjoyed :)  
 
 Thank you for taking the time to look around!
@@ -18,48 +18,48 @@ The goal of this project was to build an interactive game inspired by [The Monty
 
 [repository](<repo address>)  
 
-**Motivation**  
-* make first 'from scratch' GUI application (having encountered tkinter library during Code in Place course)
-* practice OOP and building classes in Python (having encountered OOP style program structures in CS50ai)
-* practice planning and implementing reusable, expandable code, avoiding repetition and too many interdependencies 
+#### Motivation  
+* Make first 'from scratch' GUI application (having encountered tkinter library during Code in Place course)
+* Practice OOP and building classes in Python (having encountered OOP style program structures in CS50ai)
+* Practice planning and implementing reusable, expandable code, avoiding repetition and too many interdependencies 
 
-**Goals**
-* make a game that was both fun and potentially educational
-* make CLI and GUI versions of the game, which interact with the same underlying class
-* produce a product within time constraints
+#### Goals
+* Make a game that was both fun and potentially educational
+* Make CLI and GUI versions of the game, which interact with the same underlying class
+* Produce a product within time constraints
 
-**Features**
-* underlying game mechanics
+#### Features
+* Underlying game mechanics
 * CLI gameplay
 * GUI gameplay
-* a doors class, representing a graphical door object
+* A doors class, representing a graphical door object
 
-**Assessment / Reflections**  
-Positives:  
+#### Assessment / Reflections  
+##### Positives:  
 Overall I am fairly pleased with this project.  
 * I learned alot
-* it accurately encodes the underlying dynamics of the game
-* it can be played either as a CLI or GUI game (although not interchangeably)
-* many aspects of the project adhere to good design principles such as DRY (code and information)
+* It accurately encodes the underlying dynamics of the game
+* It can be played either as a CLI or GUI game (although not interchangeably)
+* Many aspects of the project adhere to good design principles such as DRY (code and information)
 * I expect it to be expandable in future
 
-Ideas for further features:
-* more educational features to help player improve probabilistic intuition 
-  * run n automated rounds, to show decision outcomes
-  * alternative scenario with n doors, to show impact Monty's decision
-  * decision tree visualisation 
-* better / more dynamic animations
-* more engaging text to improve game play / player understanding
+###### Ideas for further features:
+* More educational features to help player improve probabilistic intuition 
+  * Run n automated rounds, to show decision outcomes
+  * Alternative scenario with n doors, to show impact Monty's decision
+  * Decision tree visualisation 
+* Better / more dynamic animations
+* More engaging text to improve game play / player understanding
 
-Areas for improvement:
+##### Areas for improvement:
 * I would like to have incorporated more systematic testing, eg. doctests
-* the project ran over time by 2x, this reflected:
-  * my unfamiliarity with the tkinter library and some of its behaviours
-  * inexperience managing data dependencies, which forced some redesigning
-* some attempts at DRY code failed and make the code less flexible
-* widget geometry is quite static and so could cause future problems
+* The project ran over time by 2x, this reflected:
+  * My unfamiliarity with the tkinter library and some of its behaviours
+  * Inexperience managing data dependencies, which forced some redesigning
+* Some attempts at DRY code failed and make the code less flexible
+* Widget geometry is quite static and so could cause future problems
 * I have not attempted to make it resilient across operating systems 
-  * pathlib would help with management of files
+  * Pathlib would help with management of files
 
 --------------------------
 
@@ -71,34 +71,34 @@ Having completed a Diploma in Linguistics at the University of Manchester, where
   * Very popular, well polished intro to CS fundamentals - I focused on first 4 weeks, to gain some familiarity with C language  
   * [Course page](https://cs50.harvard.edu/x/2019/)  
 * **Introduction to Linux (Linux Foundation, LFS101x)** 
-  * Quite a broad introduction to the Linux ecosystem and some of the common systems and tools. 
+  * Quite a broad introduction to the Linux ecosystem and some of the common systems and tools 
   * [Course page](https://training.linuxfoundation.org/training/introduction-to-linux/)  
 * **The Missing Semester (MIT)**
   * A student lead module covering effective use of computer tools often passed over in standard curricula; eg. bash, ssh, vim, git, basic privacy good practice.  
   * [Course page](https://missing.csail.mit.edu/ )  
 * **Code in Place (Stanford)**
-  * A special pandemic course release, based on the famous CS106A: Programming Methodologies course, using Python; covering control flow, decomposition, abstraction, and testing.  
+  * A special pandemic course release, based on the famous CS106A: Programming Methodologies course, using Python; covering control flow, decomposition, abstraction, and testing  
   * [Course page](https://codeinplace.stanford.edu/)  
 * **Al Sweigart's Automate the Boring Stuff (Udemy)**
-  * A practical introduction to Python for automating desktop tasks.  
+  * A practical introduction to Python for automating desktop tasks  
   * [Course page](https://www.udemy.com/course/automate/ )  
 * **How to Code: Simple Data (UBC)**
   * An introduction to (functional) programming, using a Racket based student language; emphasis on good design and testing (partially completed).    
   * [Course page](https://www.edx.org/course/how-to-code-simple-data)  
 * **Introduction to Artificial Intelligence with Python (Harvard, CS50ai)**
-  * a more technical course, introducing various search, optimization, and learning algorithms; ways of encoding knowledge and probabilistic reasoning in a program; data management and some useful tools and libraries    
+  * A more technical course, introducing various search, optimization, and learning algorithms; ways of encoding knowledge and probabilistic reasoning in a program; data management and some useful tools and libraries    
   * [Course page](https://cs50.harvard.edu/ai/2020/)  
   * [My repo]()  
 
 ### Mini-courses and Tutorials
 Below are some of the short courses I found particularly helpful.
 * **Learn Git Branching**
-  * Visual tutorial for learning Git branching.    
+  * Visual tutorial for learning Git branching    
   * [Course page](https://learngitbranching.js.org/)  
 * **vimtutor**
-  * Shell based vim tutorial.    
+  * Shell based vim tutorial    
 * **Regexone**
-  * Interactive tutorial for common regular expressions.    
+  * Interactive tutorial for common regular expressions    
   * [Course page](https://regexone.com/)  
 
 --------------------------
