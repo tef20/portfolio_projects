@@ -3,8 +3,8 @@
 This is an interactive game inspired by [The Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) -- a probability puzzle based on the classic, counterintuitive television game-show, Let's Make a Deal, whose host was Monty Hall.  
 
 There are two versions of the game to play:
-1. to play within your terminal, simply run MH_CLI_game.py
-2. to play using a GUI, run MH_GUI_game.py  
+1. To play within your terminal, simply run MH_CLI_game.py
+2. To interact with a GUI, run MH_GUI_game.py  
 
 #### Motivation  
 * Make first 'from scratch' GUI application (having encountered tkinter library during Code in Place course)
