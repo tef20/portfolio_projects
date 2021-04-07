@@ -31,7 +31,7 @@ Having completed a Diploma in Linguistics at the University of Manchester, where
   * Quite a broad introduction to the Linux ecosystem and some of the common systems and tools, from grep and awk to virtual machines
   * [Course page](https://training.linuxfoundation.org/training/introduction-to-linux/)  
 * **The Missing Semester (MIT)**
-  * A student lead module covering effective use of computer tools often passed over in standard curricula; eg. bash, ssh, vim, git, basic privacy good practice.  
+  * A student lead module covering effective use of computer tools often passed over in standard curricula; eg. bash, ssh, git, vim, tmux, basic privacy good practice, etc.  
   * [Course page](https://missing.csail.mit.edu/ )  
 * **Code in Place (Stanford)**
   * A special pandemic course release, based on the famous CS106A: Programming Methodologies course, using Python; covering control flow, decomposition, abstraction, and testing  
