@@ -49,6 +49,12 @@ Having completed a Diploma in Linguistics at the University of Manchester, where
 
 ### Mini-courses and Tutorials
 Below are some of the short courses I found particularly helpful.
+* **Shell Scripting with Bash and Z Shell with Pluralsight**
+  * 3 course tutorial series covering basic to intermediate level shell scripting.    
+  * [Course page](https://www.pluralsight.com/paths/shell-scripting-with-bash-and-z-shell)  
+* **Using Bash and Z Shell with Pluralsight**
+  * 4 course tutorial series covering basic to intermediate level shell interface.    
+  * [Course page](https://www.pluralsight.com/paths/using-bash-and-z-shell)  
 * **Learn Git Branching**
   * Visual tutorial for learning Git branching    
   * [Course page](https://learngitbranching.js.org/)  
