@@ -28,7 +28,7 @@ Having completed a Diploma in Linguistics at the University of Manchester, where
   * Very popular, well polished intro to CS fundamentals - I focused on first 4 weeks, to gain some familiarity with C language  
   * [Course page](https://cs50.harvard.edu/x/2019/)  
 * **Introduction to Linux (Linux Foundation, LFS101x)** 
-  * Quite a broad introduction to the Linux ecosystem and some of the common systems and tools, from grep and awk to virtual machines
+  * Quite a broad introduction to the Linux ecosystem and some of the common systems and tools, from grep and sed to virtual machines
   * [Course page](https://training.linuxfoundation.org/training/introduction-to-linux/)  
 * **The Missing Semester (MIT)**
   * A student lead module covering effective use of computer tools often passed over in standard curricula; eg. bash, ssh, git, vim, tmux, basic privacy good practice, etc.  
